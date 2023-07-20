@@ -3,3 +3,4 @@ Sample code and data for Medium post on https://medium.com/fullstackai/how-to-tr
 
 Pytorch version: 1.2.0
 Pycocotools: 2.0.0
+# train_and_test_ai_model

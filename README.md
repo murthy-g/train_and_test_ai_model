@@ -1,4 +1,3 @@
-# frcnn_medium_sample
 
 Pytorch version: 1.2.0
 Pycocotools: 2.0.0
